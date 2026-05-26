@@ -152,6 +152,7 @@ If you encounter any issues, please:
 3. Clear the database file (`school.db`) and restart if you encounter database errors
 
 ## Author
+ADEDEJI JOSEPH ADEOLU
 
 Created as a student registration and attendance management solution.
 
